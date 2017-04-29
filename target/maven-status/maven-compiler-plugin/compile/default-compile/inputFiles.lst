@@ -1,9 +1,0 @@
-/home/vikas/Documents/Blogger/springjpaauditlog-master/src/main/java/com/example/repository/AuditLogRepository.java
-/home/vikas/Documents/Blogger/springjpaauditlog-master/src/main/java/com/example/repository/UserRepository.java
-/home/vikas/Documents/Blogger/springjpaauditlog-master/src/main/java/com/example/BeanUtility.java
-/home/vikas/Documents/Blogger/springjpaauditlog-master/src/main/java/com/example/controller/AuditorController.java
-/home/vikas/Documents/Blogger/springjpaauditlog-master/src/main/java/com/example/entity/AuditLog.java
-/home/vikas/Documents/Blogger/springjpaauditlog-master/src/main/java/com/example/entity/User.java
-/home/vikas/Documents/Blogger/springjpaauditlog-master/src/main/java/com/example/controller/UserController.java
-/home/vikas/Documents/Blogger/springjpaauditlog-master/src/main/java/com/example/Application.java
-/home/vikas/Documents/Blogger/springjpaauditlog-master/src/main/java/com/example/entity/UserAuditLogListener.java

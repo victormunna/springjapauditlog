@@ -1,9 +1,0 @@
-com/example/entity/AuditLog.class
-com/example/repository/UserRepository.class
-com/example/Application.class
-com/example/BeanUtility.class
-com/example/controller/UserController.class
-com/example/repository/AuditLogRepository.class
-com/example/entity/User.class
-com/example/entity/UserAuditLogListener.class
-com/example/controller/AuditorController.class
